@@ -183,12 +183,9 @@ EmotionRecognition/
 ├── checkpoints/                      # Saved models (not in git)
 ├── runs/                             # TensorBoard logs (not in git)
 │
-├── 01_data_loading.ipynb            # Data exploration notebook
-├── 02_model_training.ipynb          # Training notebook
+├── 01_data_loading.ipynb             # Data exploration notebook
+├── 02_model_training.ipynb           # Training notebook
 │
-├── CLAUDE.md                         # Project instructions for AI
-├── CONTEXT.md                        # Assignment specification
-├── IMPLEMENTATION_PLAN.md            # Development roadmap
 ├── requirements.txt                  # Python dependencies
 ├── .gitignore
 └── README.md                         # This file
