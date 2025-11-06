@@ -1,0 +1,29 @@
+# PyTorch ecosystem
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+tensorboard
+
+# Pre-trained models
+timm
+
+# Data manipulation
+numpy
+pandas
+
+# Image processing
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
+ipykernel
+
+# Metrics (for EMD)
+scipy
+
+# Progress bars
+tqdm

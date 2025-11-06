@@ -18,6 +18,13 @@ The dataset is divided into **training** and **validation** sets.
 Each folder contains:
 - **Images**
 - **Annotations**
+AffectNetFused
+├───train_set
+│   ├───annotations
+│   └───images
+└───val_set
+    ├───annotations
+    └───images
 
 For each image `xxx`, there is a corresponding annotation file:
 

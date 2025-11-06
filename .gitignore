@@ -1,1 +1,21 @@
 AffectNetFused
+FERvenv
+assignment
+useful_papers/
+
+# Training outputs
+runs/
+checkpoints/
+*.pth
+
+# Cache files
+cache_*.pkl
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
