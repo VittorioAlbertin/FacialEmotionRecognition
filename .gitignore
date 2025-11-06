@@ -3,6 +3,11 @@ FERvenv
 assignment
 useful_papers
 
+# Claude Code
+CLAUDE.md
+CONTEXT.md
+IMPLEMENTATION_PLAN.md
+
 # Training outputs
 runs/
 checkpoints/
